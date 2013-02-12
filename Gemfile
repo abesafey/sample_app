@@ -31,17 +31,17 @@ end
 gem 'jquery-rails'
 
 group :test, :development do
-  gem 'rspec-rails', '2.10.0'
-  gem 'guard-rspec', '0.5.5'
-  gem 'guard-spork', '0.3.2'
-  gem 'spork', '0.9.0'
+  gem 'rspec-rails', '~> 2.12.2'
+  gem 'guard-rspec', '~> 0.5.5'
+  gem 'guard-spork', '~> 0.3.2'
+  gem 'spork', '~> 0.9.0'
 end
 
 group :test do
-gem 'capybara', '1.1.2'
-  gem 'factory_girl_rails', '1.4.0'
-  gem 'cucumber-rails', '1.2.1', require: false
-  gem 'database_cleaner', '0.7.0'
+gem 'capybara', '~> 1.1.2'
+  gem 'factory_girl_rails', '~> 1.4.0'
+  gem 'cucumber-rails', '~> 1.2.1', require: false
+  gem 'database_cleaner', '~> 0.7.0'
 end
 
 group :production do  #PostgreSQL gem for Heroku
