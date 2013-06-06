@@ -1,0 +1,15 @@
+AbstractTextEditor.Color.Background=0,34,64
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.Foreground=255,255,255
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+AbstractTextEditor.Color.SelectionForeground=255,255,255
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+CONFLICTING_COLOR=76,9,0
+INCOMING_COLOR=255,221,191
+OUTGOING_COLOR=255,221,191
+RESOLVED_COLOR=21,79,0
+additionIndicationColor=21,79,0
+changeIndicationColor=21,79,0
+currentLineColor=0,22,42
+deletionIndicationColor=76,9,0
+eclipse.preferences.version=1
